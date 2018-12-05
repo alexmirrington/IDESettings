@@ -7,7 +7,6 @@
     
     "editor.tokenColorCustomizations": {
 
-        // Remove all italics, bold and underlines
         "textMateRules": [
             {
               "scope": [
@@ -118,15 +117,7 @@
             }
         ],
 
-        // Change monokai colours
         "[Monokai]": {
-            //"functions": "#FD971F",
-            //"strings": "#FFE792",
-            //"comments": "#75715E",
-            //"keywords": "#F92672",
-            //"numbers": "#AE81FF",
-            //"types": "#66D9EF",
-
             "textMateRules": [
                 {
                     "scope": [
