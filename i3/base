@@ -164,7 +164,8 @@ default_border pixel 4
 default_floating_border pixel 4
 
 # i3 gaps
-gaps inner 8
+gaps outer 0
+gaps inner 16
 
 # class                 border  backgr. text    indicator child_border
 client.focused          $base02 $base02 $base07 $base02   $base02
